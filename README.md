@@ -62,4 +62,4 @@ If Wi-Fi still disconnects while this workaround is active, run [Apple Diagnosti
 
 ## License
 
-MIT
+2026 Copyright Kannan Sekar Annu Radha
